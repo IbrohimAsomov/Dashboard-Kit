@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+
+body {
+    font-family: monospace;
+}
+
+.header {
+    background-color: #363740 !important;
+    max-width: 255px;
+    width: 100%;
+}
+
+.line {
+    border: solid 0.1px #DFE0EB;
+    width: 2px;
+    height: 32px;
+    background-color: #DFE0EB;
+}
