@@ -20,3 +20,31 @@ body {
     height: 32px;
     background-color: #DFE0EB;
 }
+
+.bg-color {
+    background-color: #E5E5E5 !important;
+}
+
+.hight {
+    color: #FFFFFF;
+    padding: 5px 15px;
+    background-color: #F12B2C;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.low {
+    color: #FFFFFF;
+    padding: 5px 15px;
+    background-color: #FEC400;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.normal {
+    color: #FFFFFF;
+    padding: 5px 15px;
+    background-color: #29CC97;
+    border-radius: 100px;
+    text-align: center;
+}
